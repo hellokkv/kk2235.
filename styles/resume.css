@@ -1,0 +1,179 @@
+body,html{
+    margin:0;
+    height:100%;
+    font-family:Roboto,Arial;
+}
+.right-sidebar{
+    float:left;
+    background-color: rgba(4, 28, 134, 0.829);
+    width:300px;
+    height:100%;
+    padding-bottom:320px;
+    
+}
+.sidebar-contents{
+    color:white;
+    font-family:Roboto,Arial;
+    padding:10
+
+}
+.personal-info,
+.skill-info{
+    background-color: rgba(8, 20, 51, 0.419);
+    margin-left:0px;
+    font-family:Roboto,Arial;
+    font-size: 25px;
+    padding-left:10px;
+}
+.designation{
+    padding-left:10px;
+    font-size:22px;
+}
+.name{
+    padding-left:10px;
+}
+.personal-info-contents,
+.skill-info-content,
+.education-content{
+    padding-left:10px;
+}
+.phone-no,
+.email-info,
+.linkedin-info{
+    font-size:19px;
+    font-weight:bold;
+}
+.linkedin-link,
+.skill-page{
+    text-decoration: none;
+    color:white;
+}
+.linkedin-link:hover{
+    opacity:0.7;
+}
+.linkedin-link:active{
+    opacity:0.5;
+}
+.main{
+    margin-left:320px;
+    font-family:Roboto, Arial;
+    padding-top:10px;
+}
+.text-AI{
+    font-weight:bold;
+}
+.main-intro{
+    font-size:18px;
+    margin-top:0px;
+}
+
+.experience,
+.education{
+    margin-left:320px;
+    margin-bottom:2px;
+    margin-top:2px;
+    font-family:Roboto,Arial;
+    font-weight:bold;
+}
+.experience-content{
+    display:flex;
+    margin-left:320px;
+    flex-direction:row;
+    justify-content: start;
+    align-items: flex-start;
+    
+}
+
+.dates,
+.dates2{
+    width:100px;
+    font-size:18px;
+}
+.exp-content{
+    font-family:Roboto,Arial;
+    margin-left:60px;
+}
+.date-two{
+    margin-top:135px;
+    margin-bottom:90px;
+}
+.date-four{
+    margin-top:90px;
+}
+.education{
+    display:flex;
+    flex-direction: row;
+    margin-top:10px;
+}
+.head-edu,
+.sub-head-edu{
+    margin:0px;
+    font-weight:normal;
+}
+.education-content{
+    margin-left:60px;
+    align-items: center;
+    justify-content: center;
+}
+.dates2-1{
+    margin:0px;
+    text-decoration: none;
+    font-weight:normal;
+}
+.head-edu{
+    font-weight:bold;
+}
+.mit,
+.mit-edu{
+    margin-bottom:0px;
+}
+.mit-edu{
+    margin-top:0px;
+    font-weight:normal;
+}
+.dates2-2{
+    font-weight:normal;
+}
+.skill-page{
+
+}
+.download-main{
+    margin-top:20px;
+    margin-left:50px;
+}
+.download{
+    background-color:white;
+    color:rgba(4, 28, 134, 0.829);
+    padding:10px;
+    border-style:solid;
+    border-radius:5px;
+    cursor:pointer;
+    font-size:15px;
+    font-weight:bold;
+}
+.download:hover{
+    opacity:0.7;
+}
+.download:active{
+    opacity:0.6;
+}
+.return-home{
+    font-family:Roboto,Arial;
+}
+.button-home{
+    margin-left:15px;
+    background-color:rgba(4, 28, 134, 0.829);
+    color:white;
+    border-style:solid;
+    border-radius:5px;
+    padding:10px;
+    cursor:pointer;
+    font-weight:bold;
+    font-size:15px;
+}
+.button-home:hover{
+    opacity:0.7;
+}
+.button-home:active{
+    opacity:0.5;
+}

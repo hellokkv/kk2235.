@@ -1,0 +1,40 @@
+body, html{
+    font-family:Roboto,Arial;
+    margin:0px;
+    padding:0px;
+    padding-bottom:20px;
+}
+.image-10th{
+    width:400px;
+    height:400px;
+}
+.main{
+    display: flex;
+    flex-direction: rows;
+    justify-content: space-between;
+}
+.qual-div{
+    display: flex;
+    position:relative;
+    background-image: url("images/OIP-blue.jpg");
+    justify-content: center;
+    margin:0px;
+    padding:0px;
+}
+.heading{
+    font-size:50px;
+    color:white;
+    font-weight:bolder;
+
+}
+.left,.middle,.right{
+    margin-top:30px;
+    display:inline;
+}
+.mark-10th-content,.percent{
+    margin-bottom:0px;
+    margin-left:80px;
+    margin-top:0px;
+    font-size:20px;
+    font-weight:bold;
+}
